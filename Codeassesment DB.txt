@@ -1,0 +1,26 @@
+
+--database connection name --(localdb)\MSSQLLocalDB
+--CREATE Database eCommerce
+CREATE TABLE Customer
+(
+MobileNumber varchar(100) Primary Key,
+CustomerName Varchar(100)
+)
+
+Create table Transactions
+(
+TransactionID int identity(1,1) Primary Key,
+Customer_MobileNumber varchar(100),
+GroceryName Varchar(100),
+Amount Money,
+Quantity DECIMAL(6,2),
+RewardPoints DECIMAL(6,2),
+TransactionDate DateTime default(getDate())
+FOREIGN KEY (Customer_MobileNumber) REFERENCES Customer(MobileNumber)
+)
+
+select *from Customer
+select *from Transactions
+
+
+drop table Customer
