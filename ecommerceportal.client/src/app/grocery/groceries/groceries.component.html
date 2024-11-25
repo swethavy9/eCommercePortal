@@ -1,0 +1,51 @@
+<div class="container">
+    <h3>Groceries</h3>
+    <form [formGroup]="groceryForm">
+        <div class="row d-flex">
+            <div class="col-3 col-md-3">
+                <label>Customer Name</label>
+                <input type="text" class="form-control" formControlName="customerName" />
+            </div>
+            <div class="col-3 col-md-3">
+                <label>Mobile Number</label>
+                <input type="text" class="form-control" formControlName="customerMobileNumber" />
+            </div>
+
+        </div>
+        <div formArrayName="groceries">
+            <ng-container *ngFor="let fields of groceriesListForm.controls; let i = index">
+                <div class="row" [formGroupName]="i" class="row">
+                    <div class="col-4 col-md-3">
+                        <label>Grocery Name</label>
+                        <input type="text" class="form-control" formControlName="groceryName" />
+                    </div>
+                    <div class="col-3 col-md-3">
+                        <label>Quantity</label>
+                        <input type="number" class="form-control" formControlName="quantity" />
+                    </div>
+                    <div class="col-3 col-md-3">
+                        <label>Amount</label>
+                        <input type="text" class="form-control" formControlName="amount" (change)="amountChange()" />
+                    </div>
+                    <div class="col-1 mt-4">
+                        <button class="btn btn-primary" (click)="addGrocery()">Add</button>
+                    </div>
+
+                    <div class="col-1 mt-4" *ngIf="i!==0">
+                        <button class="btn btn-secondary" (click)="removeGrocery(i)">Remove</button>
+                    </div>
+                </div>
+            </ng-container>
+        </div>
+        <br />
+        <hr>
+        <div class="row">
+            <div class="col-6"></div>
+            <div class="col-4" style="display: inline-flex;">
+                <input type="text" class="form-control" formControlName="totalAmount" />
+                &nbsp;
+                <button class="btn btn-primary" (click)="handleCustomerPurchase()">Submit</button>
+            </div>
+        </div>
+    </form>
+</div>

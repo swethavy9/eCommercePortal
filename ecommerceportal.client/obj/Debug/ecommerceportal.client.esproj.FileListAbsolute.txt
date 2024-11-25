@@ -1,0 +1,2 @@
+C:\Users\91798\source\repos\eCommercePortal\ecommerceportal.client\obj\Debug\ecommerceportal.client.esproj.CoreCompileInputs.cache
+C:\Users\sweth\source\repos\eCommercePortal\ecommerceportal.client\obj\Debug\ecommerceportal.client.esproj.CoreCompileInputs.cache

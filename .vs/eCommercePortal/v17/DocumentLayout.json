@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\utilities\\rewardcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\utilities\\rewardcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F815BC-EA70-4958-9A82-719BFD40E9EF}|eCommercePortal.Repository\\eCommercePortal.Repository.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F815BC-EA70-4958-9A82-719BFD40E9EF}|eCommercePortal.Repository\\eCommercePortal.Repository.csproj|solutionrelative:ecommerceportal.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF6610-D907-452B-A6D9-3884D2BA28A0}|eCommercePortal.Server\\eCommercePortal.Server.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.server\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF6610-D907-452B-A6D9-3884D2BA28A0}|eCommercePortal.Server\\eCommercePortal.Server.csproj|solutionrelative:ecommerceportal.server\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E173AAD-6304-439E-B7D6-F4ED5CBC763A}|eCommercePoral.BAL\\eCommercePoral.BAL.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceporal.bal\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E173AAD-6304-439E-B7D6-F4ED5CBC763A}|eCommercePoral.BAL\\eCommercePoral.BAL.csproj|solutionrelative:ecommerceporal.bal\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\models\\response\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\models\\response\\customerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\entites\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\entites\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF6610-D907-452B-A6D9-3884D2BA28A0}|eCommercePortal.Server\\eCommercePortal.Server.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF6610-D907-452B-A6D9-3884D2BA28A0}|eCommercePortal.Server\\eCommercePortal.Server.csproj|solutionrelative:ecommerceportal.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91798\\AppData\\Local\\Temp\\PowerToolsReadMe.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\interfaces\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\interfaces\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.domain\\interfaces\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2EB08C-1430-43CC-ADFE-7F14662F4D42}|eCommercePortal.Domain\\eCommercePortal.Domain.csproj|solutionrelative:ecommerceportal.domain\\interfaces\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F815BC-EA70-4958-9A82-719BFD40E9EF}|eCommercePortal.Repository\\eCommercePortal.Repository.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.repository\\models\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F815BC-EA70-4958-9A82-719BFD40E9EF}|eCommercePortal.Repository\\eCommercePortal.Repository.csproj|solutionrelative:ecommerceportal.repository\\models\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F815BC-EA70-4958-9A82-719BFD40E9EF}|eCommercePortal.Repository\\eCommercePortal.Repository.csproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.repository\\models\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F815BC-EA70-4958-9A82-719BFD40E9EF}|eCommercePortal.Repository\\eCommercePortal.Repository.csproj|solutionrelative:ecommerceportal.repository\\models\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2086F9AF-2913-4138-92BB-4447DA105F97}|ecommerceportal.client\\ecommerceportal.client.esproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2086F9AF-2913-4138-92BB-4447DA105F97}|ecommerceportal.client\\ecommerceportal.client.esproj|solutionrelative:ecommerceportal.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2086F9AF-2913-4138-92BB-4447DA105F97}|ecommerceportal.client\\ecommerceportal.client.esproj|c:\\users\\sweth\\source\\repos\\ecommerceportal\\ecommerceportal.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2086F9AF-2913-4138-92BB-4447DA105F97}|ecommerceportal.client\\ecommerceportal.client.esproj|solutionrelative:ecommerceportal.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Models\\Request\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Models\\Request\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Models\\Request\\CustomerRequest.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Models\\Request\\CustomerRequest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIA0wBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:23:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Server\\Program.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Server\\Program.cs",
+              "RelativeToolTip": "eCommercePortal.Server\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:03:46.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePoral.BAL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "eCommercePoral.BAL\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePoral.BAL\\CustomerService.cs",
+              "RelativeToolTip": "eCommercePoral.BAL\\CustomerService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:06:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RewardCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Utilities\\RewardCalculator.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Utilities\\RewardCalculator.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Utilities\\RewardCalculator.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Utilities\\RewardCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:47:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Entites\\Transaction.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Entites\\Transaction.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Entites\\Transaction.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Entites\\Transaction.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:13:30.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "eCommercePortal.Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:06:28.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Server\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Server\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Server\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "eCommercePortal.Server\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:56:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Models\\Response\\CustomerResponse.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Models\\Response\\CustomerResponse.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Models\\Response\\CustomerResponse.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Models\\Response\\CustomerResponse.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:59:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PowerToolsReadMe.md",
+              "DocumentMoniker": "C:\\Users\\91798\\AppData\\Local\\Temp\\PowerToolsReadMe.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\91798\\AppData\\Local\\Temp\\PowerToolsReadMe.md",
+              "ToolTip": "C:\\Users\\91798\\AppData\\Local\\Temp\\PowerToolsReadMe.md",
+              "RelativeToolTip": "..\\..\\..\\..\\91798\\AppData\\Local\\Temp\\PowerToolsReadMe.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-18T11:03:27.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Interfaces\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Interfaces\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Interfaces\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Interfaces\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:07:15.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Entites\\Customer.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Entites\\Customer.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Entites\\Customer.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Entites\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:13:12.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Domain\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Domain\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "eCommercePortal.Domain\\Interfaces\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:07:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Repository\\Models\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Repository\\Models\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Repository\\Models\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "eCommercePortal.Repository\\Models\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:57:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Repository\\Models\\Configurations\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "eCommercePortal.Repository\\Models\\Configurations\\TransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\eCommercePortal.Repository\\Models\\Configurations\\TransactionConfiguration.cs",
+              "RelativeToolTip": "eCommercePortal.Repository\\Models\\Configurations\\TransactionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:59:25.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\ecommerceportal.client\\angular.json",
+              "RelativeDocumentMoniker": "ecommerceportal.client\\angular.json",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\ecommerceportal.client\\angular.json",
+              "RelativeToolTip": "ecommerceportal.client\\angular.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T09:31:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\ecommerceportal.client\\package.json",
+              "RelativeDocumentMoniker": "ecommerceportal.client\\package.json",
+              "ToolTip": "C:\\Users\\sweth\\source\\repos\\eCommercePortal\\ecommerceportal.client\\package.json",
+              "RelativeToolTip": "ecommerceportal.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T09:31:28.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

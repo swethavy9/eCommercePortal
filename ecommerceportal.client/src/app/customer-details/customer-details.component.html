@@ -1,0 +1,49 @@
+<div class="container">
+
+    <p-table [value]="customerRewarPoints" [tableStyle]="{ 'min-width': '50rem' }">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>Name</th>
+                <th>Mobile Number</th>
+                <th>Total Amount Spend</th>
+                <th>Total Reward Points</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-customerRewardInfo>
+            <tr>
+                <td><a href="javascript:void(0)"
+                        (click)="transactionDetails(customerRewardInfo.transactions)">{{customerRewardInfo.customerName}}</a>
+                </td>
+                <td>{{ customerRewardInfo.mobileNumber }}</td>
+                <td>{{ customerRewardInfo.totalAmount | currency:'USD' }}</td>
+                <td>{{ customerRewardInfo.totalRewardPoints }}</td>
+            </tr>
+        </ng-template>
+    </p-table>
+</div>
+<p-dialog header="Transaction Details" [modal]="true" [(visible)]="visible" [style]="{ width: '100rem' }">
+    <p-table [value]="transactions" [tableStyle]="{ 'min-width': '50rem' }">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>Tran ID</th>
+                <th>Tran Date</th>
+                <th>Mobile Number</th>
+                <th>GroceryName</th>
+                <th>Quantity</th>
+                <th>Amount</th>
+                <th>Reward Points</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-customerRewardInfo>
+            <tr>
+                <td>{{ customerRewardInfo.transactionId }}</td>
+                <td>{{ customerRewardInfo.transactionDate | date: 'MM/dd/yyyy' }}</td>
+                <td>{{ customerRewardInfo.customerMobileNumber }}</td>
+                <td>{{ customerRewardInfo.groceryName }}</td>
+                <td>{{ customerRewardInfo.quantity }}</td>
+                <td>{{ customerRewardInfo.amount | currency:'USD' }}</td>
+                <td>{{ customerRewardInfo.rewardPoints }}</td>
+            </tr>
+        </ng-template>
+    </p-table>
+</p-dialog>
